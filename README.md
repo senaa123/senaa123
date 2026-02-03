@@ -10,7 +10,7 @@ I'm Senan Jayasinghe, a second-year Data Science undergraduate at SLIT passionat
 
 🌱 I believe in learning by doing and love contributing to open-source
 
-🌐 Portfolio: https://senaa123.github.io/MyPortfolio
+🌐 Portfolio: https://senan-portfolio-five.vercel.app/
 
 🔗 LinkedIn: https://www.linkedin.com/in/senan-jayasinghe
 
