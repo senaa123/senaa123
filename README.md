@@ -1,6 +1,6 @@
 # Hi, I'm Senan Jayasinghe 👋
 
-I'm a **Data Science undergraduate at SLIIT** and an aspiring **AI/ML Engineer** passionate about building practical AI systems, machine learning models, automation workflows, and data-driven applications.
+I'm a **Data Science undergraduate at SLIIT** and an aspiring **AI/ML Engineer** passionate about building practical AI systems, machine learning models, automation workflows, Software development and data-driven applications.
 
 ## 🚀 Interests
 - AI / Machine Learning
